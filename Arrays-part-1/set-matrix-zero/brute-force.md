@@ -55,3 +55,7 @@ Row 2:
 Row becomes:
 
 1 0 1
+
+
+Time Complexity: O(n × m)
+Space Complexity: O(n + m)
